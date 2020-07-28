@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=Audiowide:regular);
+
+body
+{
+    font-family: 'Audiowide', cursive;
+    background-color: black;
+}
+
+img
+{
+    width: 600px;
+}
+
+#cd
+{
+    margin-left: 50px;
+    width: 500px;
+    color: #ed1e78;
+    text-align: center;
+    font-size: 2rem;
+    padding-bottom: 1em;
+}
